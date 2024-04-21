@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as c}from"./index-Bj2GZwOj.js";const n={},o={class:"d-flex justify-content-center",style:{"margin-top":"50px"}};function s(r,a){return c(),t("h2",o,"購物車列表")}const f=e(n,[["render",s]]);export{f as default};
